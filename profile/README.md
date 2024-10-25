@@ -1,3 +1,4 @@
 Since Sep 9, 2022
 
-https://voids.top
+Website : https://voids.top
+API Docs : https://voids.top/docs
